@@ -1,7 +1,9 @@
 # PIXAR: Path-based Informative and eXplainAble Recommendation
 ### ***KIISE(한국정보과학회) KCC 2024 Summer Conference Accepted Paper (Poster)***
 **This repository is an official implementation of the paper ["Path-based Explainable Recommender System Leveraging Knowledge Graphs and Large Language Models"](https://drive.google.com/file/d/1u1_L5rLM3M8_SEzIyhOwHdl8FfDgxk1g/view?usp=sharing).**
+
 ![PIXAR Framework](https://github.com/tree-jhk/boaz-airflow-llm-example/assets/97151660/2df4a206-311e-4f40-94eb-cee393be9074)
+
 This study proposes the PIXAR (Path-based Informative and eXplainAble Recommendation) framework, which enhances the explainability of recommendation results by utilizing paths in knowledge graphs as inputs for LLMs. 
 PIXAR is composed of three stages: 
 (1) Meaningful path exploration through Collaborative Beam Search
