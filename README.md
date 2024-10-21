@@ -1,6 +1,7 @@
 # PIXAR: Path-based Informative and eXplainAble Recommendation
 ### ***KIISE(한국정보과학회) KCC 2024 Summer Conference Accepted Paper (Poster)***
 **This repository is an official implementation of the paper ["Path-based Explainable Recommender System Leveraging Knowledge Graphs and Large Language Models"](https://drive.google.com/file/d/1u1_L5rLM3M8_SEzIyhOwHdl8FfDgxk1g/view?usp=sharing).**
+![그림2](https://github.com/user-attachments/assets/e97afdfb-b58a-49c3-bcf6-98b388df6871)
 
 ![PIXAR Framework](https://github.com/tree-jhk/boaz-airflow-llm-example/assets/97151660/2df4a206-311e-4f40-94eb-cee393be9074)
 
